@@ -1,0 +1,9 @@
+.singleCountry-container.dark{
+    color: #fff;
+}
+.country1 button{
+    margin-left: 10px;
+    padding: 5px 12px;
+    gap: 20px;
+
+}
